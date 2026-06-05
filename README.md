@@ -123,17 +123,7 @@ flowchart LR
 
 ---
 
-## 🏆 Trophies
 
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=Nihalpujari&theme=tokyonight&no-frame=true&margin-w=4&row=1&column=7" />
-</a>
-
-</div>
-
----
 
 ## ✍️ Dev Quote of the Day
 
