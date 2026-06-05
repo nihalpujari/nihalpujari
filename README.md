@@ -9,7 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/nihal-pujari/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:nihalpujari2@gmail.com)
-[![Profile Views](https://visitcount.itsvg.in/api?id=Nihalpujari&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 </div>
 
