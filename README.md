@@ -108,13 +108,16 @@ flowchart LR
 
 <div align="center">
 
-<img height="170" alt="Nihal's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Nihalpujari&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" />
-<img height="170" alt="GitHub streak" src="https://streak-stats.demolab.com?user=Nihalpujari&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<a href="https://github.com/Nihalpujari">
+  <img height="170" alt="Nihal's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Nihalpujari&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="170" alt="GitHub streak" src="https://streak-stats.demolab.com?user=Nihalpujari&theme=tokyonight&hide_border=true" />
+</a>
 
 <br/>
 
-<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihalpujari&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&cache_seconds=1800" />
-<img height="170" alt="Top contributed repos" src="https://github-contributor-stats.vercel.app/api?username=Nihalpujari&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" />
+<a href="https://github.com/Nihalpujari">
+  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihalpujari&theme=tokyonight&hide_border=true&include_all_commits=true&layout=compact&langs_count=8" />
+</a>
 
 </div>
 
@@ -124,7 +127,9 @@ flowchart LR
 
 <div align="center">
 
-<img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=Nihalpujari&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=Nihalpujari&theme=tokyonight&no-frame=true&margin-w=4&row=1&column=7" />
+</a>
 
 </div>
 
