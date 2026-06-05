@@ -7,9 +7,12 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/nihal-pujari/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:nihalpujari2@gmail.com)
-
+<a href="https://www.linkedin.com/in/nihal-pujari/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" />
+</a>
+<a href="mailto:nihalpujari2@gmail.com">
+  <img src="https://img.shields.io/badge/Email-nihalpujari2%40gmail.com-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" />
+</a>
 
 </div>
 
@@ -23,7 +26,8 @@
 
 > *"I don't just learn algorithms — I build, break and document them until they make sense."*
 
-🔭 **Currently working on:** [ML Practice](https://github.com/Nihalpujari/ML_Practice) — a complete, hands-on lab covering the full ML workflow, from preprocessing to transformers.
+🔭 **Currently working on:** an **AI Content Generator** — a multimodal Collaborative Industry Project at SRH Heidelberg that generates marketing-ready content (text + visuals) from short prompts.
+📚 **Also growing:** [ML Practice](https://github.com/Nihalpujari/ML_Practice) — a hands-on lab covering the full ML workflow, from preprocessing to transformers.
 
 ---
 
@@ -53,41 +57,11 @@ flowchart LR
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🎙️ Voice Classification System</h3>
-      <p>Gender / speaker classification using <b>Gradient Boosting</b> on audio features. End-to-end pipeline: feature extraction → model selection → evaluation.</p>
-      <p><code>Python</code> · <code>scikit-learn</code> · <code>librosa</code></p>
-    </td>
-    <td width="50%">
-      <h3>🤖 hushHush Recruiter</h3>
-      <p><b>Automated recruitment system</b> that scores and ranks candidates. Built with NLP + classical ML to match applicants to roles.</p>
-      <p><code>Python</code> · <code>NLP</code> · <code>Flask</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🚢 Titanic Survival Prediction</h3>
-      <p>Classic Kaggle problem — EDA → feature engineering → multiple models → submission. Practiced everything from imputation to ensembling.</p>
-      <p><code>pandas</code> · <code>scikit-learn</code> · <code>seaborn</code></p>
-    </td>
-    <td width="50%">
-      <h3>💳 Credit Card Fraud Detection</h3>
-      <p>Highly imbalanced classification using <b>SMOTE</b>, anomaly detection and precision-recall trade-offs to catch rare fraudulent transactions.</p>
-      <p><code>scikit-learn</code> · <code>imbalanced-learn</code></p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🌱 Currently Learning
 
 - 🤗 **Transformers & Hugging Face** — sentiment, zero-shot, QNLI pipelines
 - 🧠 **RNNs, LSTMs, Word2Vec** — building sequence models from scratch in Keras
+- 🎨 **Multimodal AI** — combining text + image generation (via my Industry Project)
 - 🐳 **MLOps basics** — Docker, model deployment, AWS / GCP
 - 🧪 **Experiment tracking** — MLflow, Weights & Biases
 
@@ -134,17 +108,13 @@ flowchart LR
 
 <div align="center">
 
-<a href="https://github.com/Nihalpujari">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nihalpujari&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" />
-  <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=Nihalpujari&theme=tokyonight&hide_border=true" />
-</a>
+<img height="170" alt="Nihal's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Nihalpujari&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" />
+<img height="170" alt="GitHub streak" src="https://streak-stats.demolab.com?user=Nihalpujari&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 <br/>
 
-<a href="https://github.com/Nihalpujari">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihalpujari&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=8" />
-  <img height="170" src="https://github-contributor-stats.vercel.app/api?username=Nihalpujari&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" />
-</a>
+<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihalpujari&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&cache_seconds=1800" />
+<img height="170" alt="Top contributed repos" src="https://github-contributor-stats.vercel.app/api?username=Nihalpujari&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" />
 
 </div>
 
@@ -154,7 +124,7 @@ flowchart LR
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Nihalpujari&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+<img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=Nihalpujari&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
 
 </div>
 
@@ -164,7 +134,7 @@ flowchart LR
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img alt="Random dev quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
@@ -176,12 +146,16 @@ I'm always open to **collaborations, internship offers, and conversations about 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihal-pujari/)
-[![Email](https://img.shields.io/badge/Email-Say_hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nihalpujari2@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nihalpujari)
+<a href="https://www.linkedin.com/in/nihal-pujari/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:nihalpujari2@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say_hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/Nihalpujari">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 ⭐ *If you like my work, drop a star on my repos — it really helps!* ⭐
 
 </div>
-
-<!-- Proudly improved with care -->
