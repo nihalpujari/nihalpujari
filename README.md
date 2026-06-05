@@ -109,7 +109,7 @@ flowchart LR
 <div align="center">
 
 <a href="https://github.com/Nihalpujari">
-  <img height="170" alt="Nihal's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Nihalpujari&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  
   <img height="170" alt="GitHub streak" src="https://streak-stats.demolab.com?user=Nihalpujari&theme=tokyonight&hide_border=true" />
 </a>
 
