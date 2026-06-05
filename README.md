@@ -115,9 +115,7 @@ flowchart LR
 
 <br/>
 
-<a href="https://github.com/Nihalpujari">
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihalpujari&theme=tokyonight&hide_border=true&include_all_commits=true&layout=compact&langs_count=8" />
-</a>
+
 
 </div>
 
